@@ -1,0 +1,30 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="960" fill="url(#mbg)"/>
+<ellipse cx="200" cy="150" rx="450" ry="350" fill="url(#mb1)" opacity="0.5"/>
+<ellipse cx="1750" cy="400" rx="500" ry="400" fill="url(#mb2)" opacity="0.45"/>
+<ellipse cx="900" cy="800" rx="600" ry="300" fill="url(#mb3)" opacity="0.35"/>
+<path d="M0 700 C500 620 1000 780 1500 680 C1700 640 1850 660 1920 650 L1920 960 L0 960 Z" fill="url(#mwave)" opacity="0.55"/>
+<defs>
+<linearGradient id="mbg" x1="0" y1="0" x2="1920" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3E8FF"/>
+<stop offset="0.5" stop-color="#FAF5FF"/>
+<stop offset="1" stop-color="#EDE9FE"/>
+</linearGradient>
+<radialGradient id="mb1" cx="50%" cy="50%" r="50%">
+<stop stop-color="#9333EA"/>
+<stop offset="1" stop-color="#9333EA" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="mb2" cx="50%" cy="50%" r="50%">
+<stop stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="mb3" cx="50%" cy="50%" r="50%">
+<stop stop-color="#A855F7"/>
+<stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="mwave" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#6D28D9"/>
+</linearGradient>
+</defs>
+</svg>

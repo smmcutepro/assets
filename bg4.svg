@@ -1,0 +1,25 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="960" fill="url(#wbg)"/>
+<path d="M0 600 C480 500 960 700 1440 580 C1680 520 1800 560 1920 540 L1920 960 L0 960 Z" fill="url(#wave1)" opacity="0.5"/>
+<path d="M0 680 C400 600 800 750 1200 670 C1500 610 1700 650 1920 630 L1920 960 L0 960 Z" fill="url(#wave2)" opacity="0.6"/>
+<path d="M0 780 C350 720 700 820 1050 760 C1350 710 1650 750 1920 730 L1920 960 L0 960 Z" fill="url(#wave3)" opacity="0.7"/>
+<defs>
+<linearGradient id="wbg" x1="0" y1="0" x2="1920" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FAF5FF"/>
+<stop offset="0.5" stop-color="#EDE9FE"/>
+<stop offset="1" stop-color="#F5F0FF"/>
+</linearGradient>
+<linearGradient id="wave1" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A855F7"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+<linearGradient id="wave2" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#5B21B6"/>
+</linearGradient>
+<linearGradient id="wave3" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D28D9"/>
+<stop offset="1" stop-color="#4C1D95"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,30 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="960" fill="url(#fdw)"/>
+<path d="M0 500 C400 420 800 580 1200 480 C1500 410 1700 460 1920 440 L1920 960 L0 960 Z" fill="url(#fdw1)" opacity="0.4"/>
+<path d="M0 620 C350 560 700 680 1100 600 C1400 540 1650 580 1920 560 L1920 960 L0 960 Z" fill="url(#fdw2)" opacity="0.5"/>
+<ellipse cx="300" cy="250" rx="450" ry="350" fill="url(#fdwb)" opacity="0.2"/>
+<ellipse cx="1600" cy="300" rx="400" ry="300" fill="url(#fdwb2)" opacity="0.2"/>
+<defs>
+<linearGradient id="fdw" x1="0" y1="0" x2="1920" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A0040"/>
+<stop offset="0.4" stop-color="#2E0068"/>
+<stop offset="1" stop-color="#1A0040"/>
+</linearGradient>
+<linearGradient id="fdw1" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#4C1D95"/>
+</linearGradient>
+<linearGradient id="fdw2" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D28D9"/>
+<stop offset="1" stop-color="#3D0099"/>
+</linearGradient>
+<radialGradient id="fdwb" cx="50%" cy="50%" r="50%">
+<stop stop-color="#A855F7"/>
+<stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="fdwb2" cx="50%" cy="50%" r="50%">
+<stop stop-color="#C084FC"/>
+<stop offset="1" stop-color="#C084FC" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

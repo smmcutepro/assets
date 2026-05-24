@@ -1,0 +1,25 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="960" fill="#FAF5FF"/>
+<path d="M0 200 C400 100 800 300 1200 180 C1500 100 1700 150 1920 120 L1920 0 L0 0 Z" fill="url(#tw1)" opacity="0.4"/>
+<path d="M0 750 C350 670 700 800 1100 720 C1400 660 1650 700 1920 680 L1920 960 L0 960 Z" fill="url(#tw2)" opacity="0.5"/>
+<path d="M0 820 C300 760 650 860 1000 800 C1300 750 1600 790 1920 770 L1920 960 L0 960 Z" fill="url(#tw3)" opacity="0.6"/>
+<path d="M0 880 C250 840 550 900 900 860 C1200 830 1550 860 1920 840 L1920 960 L0 960 Z" fill="url(#tw4)" opacity="0.7"/>
+<defs>
+<linearGradient id="tw1" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C084FC"/>
+<stop offset="1" stop-color="#A855F7"/>
+</linearGradient>
+<linearGradient id="tw2" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#A855F7"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+<linearGradient id="tw3" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#6D28D9"/>
+</linearGradient>
+<linearGradient id="tw4" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D28D9"/>
+<stop offset="1" stop-color="#4C1D95"/>
+</linearGradient>
+</defs>
+</svg>

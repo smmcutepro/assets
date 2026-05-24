@@ -1,0 +1,23 @@
+<svg width="1920" height="960" viewBox="0 0 1920 960" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1920" height="960" fill="url(#ng)"/>
+<rect width="1920" height="960" fill="url(#ng2)" opacity="0.6"/>
+<rect width="1920" height="960" fill="url(#ng3)" opacity="0.3"/>
+<defs>
+<linearGradient id="ng" x1="0" y1="0" x2="1920" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3E8FF"/>
+<stop offset="0.3" stop-color="#DDD6FE"/>
+<stop offset="0.6" stop-color="#EDE9FE"/>
+<stop offset="1" stop-color="#F5F3FF"/>
+</linearGradient>
+<linearGradient id="ng2" x1="0" y1="0" x2="0" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C084FC" stop-opacity="0.3"/>
+<stop offset="0.5" stop-color="#A855F7" stop-opacity="0"/>
+<stop offset="1" stop-color="#7C3AED" stop-opacity="0.4"/>
+</linearGradient>
+<linearGradient id="ng3" x1="1920" y1="0" x2="0" y2="960" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9333EA" stop-opacity="0.2"/>
+<stop offset="0.5" stop-color="#F3E8FF" stop-opacity="0"/>
+<stop offset="1" stop-color="#6D28D9" stop-opacity="0.3"/>
+</linearGradient>
+</defs>
+</svg>
